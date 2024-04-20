@@ -17,7 +17,7 @@
 	"require": {
 		"php": ">=5.6.0",
 		"ext-iconv": "*",
-		"nette/utils": "^2.4 || ~3.0.0 || ^3.1",
+		"nette/utils": "^2.4 || ~3.0.0 || ^3.1"
 	},
 	"require-dev": {
 		"nette/di": "^2.4 || ~3.0.0",
